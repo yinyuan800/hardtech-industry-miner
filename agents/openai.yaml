@@ -1,0 +1,7 @@
+interface:
+  display_name: "硬科技产业挖掘"
+  short_description: "从产业大趋势拆解到技术瓶颈、科研团队、商业化路径和投资机会地图"
+  default_prompt: "Use $hardtech-industry-miner to map an emerging industry from macro trend to technical bottlenecks, research teams, commercialization paths, and investable hard-tech opportunities."
+
+policy:
+  allow_implicit_invocation: true
